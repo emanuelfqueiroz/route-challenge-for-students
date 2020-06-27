@@ -4,11 +4,13 @@ using System.Reflection;
 using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetDomain.Builder;
+using Microsoft.AspNetDomain.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using Swashbuckle.AspNetCore.Filters;
+using Swashbuckle.AspNetDomain.Filters;
 using TouristChallenge1.InfraStructure.DI;
 
 namespace TouristChallenge1
@@ -119,7 +121,7 @@ namespace TouristChallenge1
             else
             {
                 app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetDomain-hsts.
                 app.UseHsts();
             }
 

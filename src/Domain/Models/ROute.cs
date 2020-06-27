@@ -5,10 +5,17 @@ using System.Threading.Tasks;
 
 namespace TouristChallenge1.Domain.Models
 {
-    public class ROute
+    public class Route
     {
-        public string From { get; set; }
-        public string To { get; set; }
-        public decimal Cost { get; set; }
+        public string From { get; private set; }
+        public string To { get; private set; }
+        public decimal Cost { get; private set; }
+
+        public Route(string from, string to, decimal cost)
+        {
+            this.From = from;
+            this.To = to;
+            this.Cost = cost;
+        }
     }
 }

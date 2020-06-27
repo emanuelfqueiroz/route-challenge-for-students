@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TouristChallenge1.Models
+namespace TouristChallenge1.InfraStructure.Data
 {
     public class RouteCsv
     {
