@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRouteFromZero", "FindRouteFromZero\FindRouteFromZero.csproj", "{CA7D5B27-3F21-4A1B-AEC2-EBF994BB3C68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{6C7462F8-CA9B-4924-8A29-A73EAD412E8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.ShortestPath", "Libraries\Algorithms.ShortestPath\Algorithms.ShortestPath.csproj", "{106D3E93-6F40-45D6-B028-049C6A6C34F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7D5B27-3F21-4A1B-AEC2-EBF994BB3C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7D5B27-3F21-4A1B-AEC2-EBF994BB3C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7D5B27-3F21-4A1B-AEC2-EBF994BB3C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7D5B27-3F21-4A1B-AEC2-EBF994BB3C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106D3E93-6F40-45D6-B028-049C6A6C34F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106D3E93-6F40-45D6-B028-049C6A6C34F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106D3E93-6F40-45D6-B028-049C6A6C34F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106D3E93-6F40-45D6-B028-049C6A6C34F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{106D3E93-6F40-45D6-B028-049C6A6C34F5} = {6C7462F8-CA9B-4924-8A29-A73EAD412E8E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B4FFA61-AC0B-4DDD-9790-CDB05152DD90}
+	EndGlobalSection
+EndGlobal
