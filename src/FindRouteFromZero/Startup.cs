@@ -1,8 +1,8 @@
 using FindRouteFromZero.Application.Routes;
 using FindRouteFromZero.Application.Services;
 using FindRouteFromZero.Domain.Repositories;
-using FindRouteFromZero.Infra.DI;
-using FindRouteFromZero.Infra.Repositories.Routes;
+using FindRouteFromZero.Infrastructure.DI;
+using FindRouteFromZero.Infrastructure.Repositories.Routes;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;

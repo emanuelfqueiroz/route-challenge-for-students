@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emanu\\source\\repos\\FindRouteFromZero\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emanu\\source\\repos\\FindRouteFromZero\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj": {
+    "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\FindRouteFromZero\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj",
         "projectName": "Algorithms.ShortestPath",
-        "projectPath": "C:\\Users\\emanu\\source\\repos\\FindRouteFromZero\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj",
-        "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\source\\repos\\FindRouteFromZero\\Libraries\\Algorithms.ShortestPath\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\Libraries\\Algorithms.ShortestPath\\Algorithms.ShortestPath.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\Libraries\\Algorithms.ShortestPath\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -58,7 +60,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

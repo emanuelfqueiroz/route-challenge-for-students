@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.deps.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.runtimeconfig.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.AssemblyInfo.cs
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.csproj.CopyComplete
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Infrastructure\obj\Debug\netcoreapp3.1\FindRouteFromZero.Infrastructure.genruntimeconfig.cache

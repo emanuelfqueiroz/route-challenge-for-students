@@ -18,7 +18,7 @@ namespace FindRouteFromZero.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<RouteReponse>> GetBestRoute([FromQuery] RouteRequest routeRequest)
+        public async Task<ActionResult<RouteResponse>> GetBestRoute([FromQuery] RouteRequest routeRequest)
         {
             return Ok(await _service.FindBestRoute(routeRequest));
         }

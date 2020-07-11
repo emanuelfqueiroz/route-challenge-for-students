@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\FindRouteFromZero.Application.deps.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\FindRouteFromZero.Application.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\FindRouteFromZero.Application.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\Algorithms.ShortestPath.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\bin\Debug\netcoreapp3.1\Algorithms.ShortestPath.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.AssemblyInfo.cs
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.csproj.CopyComplete
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Application\obj\Debug\netcoreapp3.1\FindRouteFromZero.Application.pdb

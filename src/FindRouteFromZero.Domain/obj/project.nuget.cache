@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwNrv1u17rFlWfeSRIH2ptVSBjpOeXJE0RU/1aWX1SIW3bB9ncZPIlVrqCVAnnzVgC4IlNYCHIsLwxDdPgrIuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\FindRouteFromZero.Domain\\FindRouteFromZero.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

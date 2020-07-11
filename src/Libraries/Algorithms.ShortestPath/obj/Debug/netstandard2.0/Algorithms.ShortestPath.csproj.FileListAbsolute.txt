@@ -16,3 +16,12 @@ C:\Users\emanu\source\repos\FindRouteFromZero\Libraries\Algorithms.ShortestPath\
 C:\Users\emanu\source\repos\FindRouteFromZero\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.csproj.CoreCompileInputs.cache
 C:\Users\emanu\source\repos\FindRouteFromZero\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.dll
 C:\Users\emanu\source\repos\FindRouteFromZero\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\bin\Debug\netstandard2.0\Algorithms.ShortestPath.deps.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\bin\Debug\netstandard2.0\Algorithms.ShortestPath.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\bin\Debug\netstandard2.0\Algorithms.ShortestPath.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.AssemblyInfo.cs
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\Libraries\Algorithms.ShortestPath\obj\Debug\netstandard2.0\Algorithms.ShortestPath.pdb

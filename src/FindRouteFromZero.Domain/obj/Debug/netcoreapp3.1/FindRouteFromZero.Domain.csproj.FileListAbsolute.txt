@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.deps.json
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\bin\Debug\netcoreapp3.1\FindRouteFromZero.Domain.pdb
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\obj\Debug\netcoreapp3.1\FindRouteFromZero.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\obj\Debug\netcoreapp3.1\FindRouteFromZero.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\obj\Debug\netcoreapp3.1\FindRouteFromZero.Domain.AssemblyInfo.cs
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\obj\Debug\netcoreapp3.1\FindRouteFromZero.Domain.dll
+C:\Users\Hp\Desktop\opengit\v1\route-challenge-for-students\src\FindRouteFromZero.Domain\obj\Debug\netcoreapp3.1\FindRouteFromZero.Domain.pdb
