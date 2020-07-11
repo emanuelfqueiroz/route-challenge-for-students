@@ -39,3 +39,14 @@ Xamarin.Android.Support.ViewPager
 Xamarin.Essentials
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
+Acr.UserDialogs
+Akavache.Core
+Akavache
+Akavache.Sqlite3
+AndHUD
+Plugin.Connectivity
+Plugin.Messaging
+Plugin.Settings
+SQLitePCLRaw.lib.e_sqlite3.android
+Xamarin.Forms.Material
+Xamarin.Forms.PancakeView
