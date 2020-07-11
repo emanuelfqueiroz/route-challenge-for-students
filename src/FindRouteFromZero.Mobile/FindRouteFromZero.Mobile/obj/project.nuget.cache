@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rQo9Pf/FrSo68GpZMw21L5egcfIDUA0R6UiVzpO6lzxfOu/X+1pGgKxFRM7qSexh+6kZiip4xiErTzg6oQmOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\opengit\\v1\\route-challenge-for-students\\src\\FindRouteFromZero.Mobile\\FindRouteFromZero.Mobile\\FindRouteFromZero.Mobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
